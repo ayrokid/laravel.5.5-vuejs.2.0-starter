@@ -3513,6 +3513,9 @@ new Vue({
   data: {}
 
 }).$mount('#app');
+/*
+https://github.com/fagray/vuejs2-laravel53-starter/blob/master/package.json
+*/
 
 /***/ }),
 /* 13 */
